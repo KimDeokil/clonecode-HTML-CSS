@@ -1,3 +1,3 @@
 # Kokoa Clone 2022
 
-HTML, CSS Use Clone Code
+HTML & CSS Clone Code
